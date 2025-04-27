@@ -18,14 +18,20 @@
 1. Clone this repository:
    ```bash
    git clone https://github.com/YOUR-USERNAME/Re-View.git
+   ```
    cd Re-View
 2. Install required libraries:
    ```bash
    pip install -r requirements.txt
+   ```
 
 ## Usage
-Run the GUI application with:
+Run the GUI Application with:
    ```bash
    python gui_app.py
+```
 
-## Example     
+---
+
+## Examples
+*Coming soon...*
