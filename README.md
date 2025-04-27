@@ -28,4 +28,4 @@ Run the GUI application with:
    ```bash
    python gui_app.py
 
-## Example Screenshots
+## Example Screenshot
