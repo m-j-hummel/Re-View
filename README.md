@@ -12,7 +12,7 @@
 - Lightweight and easy to extend
 
 ---
-
+  
 ## Installation
 
 1. Clone this repository:
@@ -24,7 +24,8 @@
    pip install -r requirements.txt
 
 ## Usage
-
 Run the GUI application with:
    ```bash
    python gui_app.py
+
+## Example Screenshots
