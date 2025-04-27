@@ -18,14 +18,14 @@
 1. Clone this repository:
    ```bash
    git clone https://github.com/YOUR-USERNAME/Re-View.git
-   cd Re-View
+   cd Re-View```
 2. Install required libraries:
    ```bash
-   pip install -r requirements.txt
+   pip install -r requirements.txt```
 
 ## Usage
 Run the GUI application with:
    ```bash
-   python gui_app.py
+   python gui_app.py```
 
-## Example Screenshot
+## Example     
