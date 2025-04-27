@@ -18,8 +18,9 @@
 1. Clone this repository:
    ```bash
    git clone https://github.com/YOUR-USERNAME/Re-View.git
-   ```
+
    cd Re-View
+   ```
 2. Install required libraries:
    ```bash
    pip install -r requirements.txt
