@@ -20,9 +20,11 @@
    git clone https://github.com/YOUR-USERNAME/Re-View.git
    cd Re-View
 2. Install required libraries:
-   ```pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
 
 ## Usage
 
 Run the GUI application with:
-   ```python gui_app.py
+   ```bash
+   python gui_app.py
